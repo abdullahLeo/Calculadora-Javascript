@@ -1,2 +1,2 @@
 # Calculadora-Javascript
-Calculadora Javascript
+Calculadora Javascript ejercicio practico 
